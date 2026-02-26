@@ -50,11 +50,11 @@ Welcome to my Power BI Reports Portfolio! This repository showcases a wide varie
 
 
 
-![Dashboard 1](616814224_886779697272914_776646513288089413_n.jpg)
-![Dashboard 2](555463574_799115816039303_8045699734962362687_n.jpg)
-![Dashboard 2](616605135_891110940173123_8134589040844739110_n.jpg)
-![Dashboard 2](2.png)
-![Dashboard 3](620094104_1941593420571249_542612984187394753_n.png)
+## Project Screenshots
+
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(199).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(200).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(201).png)
 
 
 
