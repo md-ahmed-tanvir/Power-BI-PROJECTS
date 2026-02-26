@@ -55,6 +55,48 @@ Welcome to my Power BI Reports Portfolio! This repository showcases a wide varie
 ![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(199).png)
 ![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(200).png)
 ![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(201).png)
+![Dashboard 4](This%20is%20my%20special%20project%20image/Screenshot%20(202).png)
+![Dashboard 5](This%20is%20my%20special%20project%20image/Screenshot%20(203).png)
+![Dashboard 6](This%20is%20my%20special%20project%20image/Screenshot%20(204).png)
+![Dashboard 7](This%20is%20my%20special%20project%20image/Screenshot%20(205).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(206).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(207).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(208).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(210).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(212).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(213).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(215).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(216).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(217).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(218).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(220).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(223).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(224).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(225).png)
+
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(226).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(229).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(230).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(231).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(232).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(233).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(234).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(235).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(236).png)
+![Dashboard 1](This%20is%20my%20special%20project%20image/Screenshot%20(238).png)
+![Dashboard 2](This%20is%20my%20special%20project%20image/Screenshot%20(240).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(241).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(242).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(243).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(244).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(245).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(246).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(256).png)
+![Dashboard 3](This%20is%20my%20special%20project%20image/Screenshot%20(257).png)
+
+
+
+
 
 
 
